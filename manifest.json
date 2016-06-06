@@ -1,5 +1,5 @@
 {
-	"mainfest_version": 2,
+	"manifest_version": 2,
 	"name": "Eos approval app plug-in",
 	"short_name": "Eos app plug-in",
 	"version": "0.1",
@@ -20,7 +20,7 @@
 			"background.js"
 		],
 		"persistent": false
-	}
+	},
 	
 	"permissions": [
 		"activeTab",
